@@ -2,3 +2,4 @@
 *.db-shm
 *.db-wal
 appsettings.Development.json
+migrations.sql
