@@ -90,13 +90,13 @@ public class AppDbContext : DbContext
             new Track
             {
                 Id = 1,
-                Title = "Midnight Frequencies",
+                Title = "",
                 AlbumTitle = "Signal/Noise",
                 Artist = "Aurelius Kane",
                 Genre = "Electronic / Ambient",
                 Duration = "4:22",
                 CoverImageUrl = "https://images.unsplash.com/photo-1470225620780-dba8ba36b745?w=400",
-                AudioUrl = "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+                AudioUrl = "https://drive.google.com/file/d/1_BLXozfWG9BSioC7wZqEZqT9v5nrnFe7/view?usp=share_link",
                 PublishedAt = new DateTime(2026, 5, 20, 0, 0, 0, DateTimeKind.Utc),
                 IsPublished = true
             },
